@@ -1,0 +1,50 @@
+1,"Put Your Records On","Ritt Momney",https://open.spotify.com/track/6AGOKlMZWLCaEJGnaROtF9
+2,"No Wind Resistance!",Kinneret,https://open.spotify.com/track/78Vm1H6bT8WQyPNyx7HBhP
+3,"Edge of Great (feat. Madison Reyes, Charlie Gillespie, Owen Patrick Joyner & Jeremy Shada)","Julie and the Phantoms Cast",https://open.spotify.com/track/1e2ofLpE40cjEeMENP7pzv
+4,"Mad at Disney","salem ilese",https://open.spotify.com/track/7aGyRfJWtLqgJaZoG9lJhE
+5,"Bon voyage",YooA,https://open.spotify.com/track/4X95Ecd1elHxTccGOko02c
+6,"M to the B","Millie B",https://open.spotify.com/track/1meosvrJFk4xXo1HwUIasC
+7,"This Side of Paradise","Coyote Theory",https://open.spotify.com/track/3sgf2a905hjZ81tXYytY6i
+8,"You Got It",Vedo,https://open.spotify.com/track/4lsHZ92XCFOQfzJFBTluk8
+9,"Lemonade (feat. Gunna, Don Toliver & NAV)","Internet Money",https://open.spotify.com/track/7hxHWCCAIIxFLCzvDgnQHX
+10,"Lets Link",WhoHeem,https://open.spotify.com/track/6fMzgFFGzWCwiHMzDzNpp5
+11,THICK,"DJ Chose",https://open.spotify.com/track/0YYNIGKgAk34vZkV2NySie
+12,"Onna Come Up","Lil Eazzyy",https://open.spotify.com/track/0s8QrhtXW1Av2tuLLerDjN
+13,"Mood (feat. Iann Dior)",24kGoldn,https://open.spotify.com/track/3tjFYV6RSFtuktYl3ZtYcq
+14,"Melukis Senja","Budi Doremi",https://open.spotify.com/track/0ZEYRVISCaqz5yamWZWzaA
+15,Daisy,Ashnikko,https://open.spotify.com/track/0AUvWawuP0ibk4SQ3sIZjk
+16,"Upside Down",JVKE,https://open.spotify.com/track/614OkajfRPH8V0ugNQnduP
+17,Dynamite,BTS,https://open.spotify.com/track/0t1kP63rueHleOhQkYSXFY
+18,"Throat Baby (Go Baby)","BRS Kash",https://open.spotify.com/track/31iqpzg1ZXLLgq0L5iIwLe
+19,Michelle,"Sir Chloe",https://open.spotify.com/track/3sa1wUB8FAkoH95MGPGBWI
+20,"Se Te Nota (with Guaynaa)","Lele Pons",https://open.spotify.com/track/11EnQRgRMJwMAesfkB5pnu
+21,"At My Worst","Pink Sweat$",https://open.spotify.com/track/0ri0Han4IRJhzvERHOZTMr
+22,Lose,NIKI,https://open.spotify.com/track/5vPO5ouEv8iedKWxzmSv7b
+23,"Whole Lotta Choppas","Sada Baby",https://open.spotify.com/track/6hLZzCS4E7AWo3PRBWy6az
+24,Heather,"Conan Gray",https://open.spotify.com/track/4xqrdfXkTW4T0RauPLv3WA
+25,"What You Know Bout Love","Pop Smoke",https://open.spotify.com/track/1tkg4EHVoqnhR6iFEXb60y
+26,"Kabilang Buhay","Bandang Lapis",https://open.spotify.com/track/0knRQzgvbUed6K74mX81hG
+27,Melbourne,Morvasu,https://open.spotify.com/track/0nYZ6GR0fCPmxqjPOaPGjJ
+28,"Never Change",Dustystaytrue,https://open.spotify.com/track/1d6XDNrd6AjQiGHHVnTrfv
+29,"Deep End",Fousheé,https://open.spotify.com/track/6HlE9t71z9DjGi7KqSyEpA
+30,"WAP (feat. Megan Thee Stallion)","Cardi B",https://open.spotify.com/track/4Oun2ylbjFKMPTiaSbbCih
+31,"Só Você","MC Rogerinho",https://open.spotify.com/track/59kRq8rb5uJCrSYYbGCk7o
+32,Cuek,"Rizky Febian",https://open.spotify.com/track/4sCabvmZpbmfoCNcoCSKEX
+33,"Jerusalema (feat. Nomcebo Zikode)","Master KG",https://open.spotify.com/track/2MlOUXmcofMackX3bxfSwi
+34,"Where the sea sleeps","DAY6 (Even of Day)",https://open.spotify.com/track/5eiCYAQ7K7pob2Ev9nfBXO
+35,"Relación - Remix",Sech,https://open.spotify.com/track/35UUpTmrcFXNIVIN26ujXl
+36,"Ice Cream (with Selena Gomez)",BLACKPINK,https://open.spotify.com/track/2J4P46vCFm1rPkNkp9pZWX
+37,"Pegao / Me Miro y La Mire (TikTok Hit)",Omega,https://open.spotify.com/track/4Pzk85DqWoLqptyA5IlhLk
+38,"my ex's best friend (with blackbear)","Machine Gun Kelly",https://open.spotify.com/track/7kDUspsoYfLkWnZR7qwHZl
+39,"King Of The Fall","The Weeknd",https://open.spotify.com/track/7o3Mcis1uKcYDuuJD1W0Rm
+40,"Eyes Blue Like The Atlantic (feat. Subvrbs)","Sista Prod",https://open.spotify.com/track/0qUcpOOna3kkrwfqky85e1
+41,"Tiger Inside",SuperM,https://open.spotify.com/track/1ADlTU9mFc3oDdD9Vla2Yw
+42,"Sana Ne",Bedo,https://open.spotify.com/track/46nUIq8brEPcaFAsBow4Ex
+43,"Bahasa Kalbu",Raisa,https://open.spotify.com/track/7c98gah3Qah9o76kgkzfrV
+44,"刻在我心底的名字 (Your Name Engraved Herein) - 電影<刻在你心底的名字>主題曲","Crowd Lu",https://open.spotify.com/track/3OC84eKMxRJ4x0Hcwl9i4i
+45,"Wolves (feat. Post Malone)","Big Sean",https://open.spotify.com/track/33gwZOGJWEZ7dRWPqPxBEZ
+46,"Mi Cuarto","Jerry Di",https://open.spotify.com/track/6fmQjRuo7XvRFCK2qex5hQ
+47,"Bande organisée",Jul,https://open.spotify.com/track/205HNJ73cgpC0LAOnuQiWT
+48,"Romance Desapegado","Conde do Forró",https://open.spotify.com/track/54OqGd3dmug64db0ZtOtF4
+49,"Stuck In The Middle","Tai Verdes",https://open.spotify.com/track/4y3BUo2hp0MxylfbUaqRyJ
+50,Dargın,"Zeynep Bastık",https://open.spotify.com/track/0y4qZpjvskqgvPY5Wc1mJU
