@@ -1,0 +1,107 @@
+// Maxwell Sylvestre 
+
+import java.util.Scanner;  
+import java.io.*;
+public class CountZeroes {
+
+	public static void main(String[] args) throws IOException{
+		// TODO Auto-generated method stub
+
+		final int MAX=100;
+		int Num[]=new int [MAX];
+		int size=0;
+		int count=0;
+		//Create an output file
+		PrintWriter outputFile=new PrintWriter("CountOutput.txt");
+		//Call out the real data method and store the return in count
+		count=readData(Num,outputFile);
+		//Print count
+		outputFile.println("\nThe data: " + count);
+		//call out countZeroes method and store it in size
+		size=countZeroes(Num,count);
+		// Print size
+		outputFile.println("Number of Zeroes: " + size);
+		outputFile.println();
+		count=readData(Num,outputFile);
+		//call out append method and add it to count
+		count=append(Num, count , outputFile);
+		outputFile.println();
+		//print count
+		outputFile.println("\nThe data: " + count);
+		size=countZeroes(Num,count);
+		outputFile.println("Number of Zeroes: " + size);
+
+
+		outputFile.close();
+	}
+	/*method readData()
+	 * Input:
+	 *      vals- an array that can hold integer
+	 *      An scanner that will read through the Input file
+	 * Process:
+	 *      it will scan every integer in the Input File and it will store it in the Array 
+	 *      and print it to an outputFile 
+	 * Output:
+	 *      It will returned the number of integer scan
+	 */
+
+	public static int readData(int [] vals,PrintWriter outputFile)throws IOException {
+		//create an input file
+		File myfile = new File("CountInput.txt");
+		Scanner sc=new Scanner(myfile);
+		int index;
+		index=0;
+		outputFile.println("The Array hold :  ");
+		while(sc.hasNext()) {
+			vals[index]=sc.nextInt();	
+			outputFile.printf("%3d " ,vals[index]);
+			index++;
+		}  
+		sc.close();
+		return index;
+	}
+
+	/* method countZeroes()
+	 * Input:
+	 *      vals- Array of integer filled with n value
+	 *      n-Number of integer in the array
+	 * Process:
+	 *       It will read through the scanner and find every number that's Zero among 
+	 *       the integer.
+	 * Output:
+	 *       It will return the 
+	 */
+	public static int countZeroes(int []vals,int n) {
+
+		int counter=0;
+		for (int i=0; i<n;i++) {	
+			if(vals[i] == 0) {
+				counter++;			
+			}
+		} 
+		return counter;
+	}
+	/*method append()
+	 * Input:
+	 *      vals-Array of integer filled with n value
+	 *      n-number of value in the array
+	 * Process:
+	 *      it will read an input file and  and print it to an outputFile
+	 * Output:     
+	 *      it will return the number of file read
+	 */
+	public static int append(int []vals,int n,PrintWriter outputFile) throws IOException{
+		int index=n;
+		//Create a second input file
+		File myfile = new File("CountInput2.txt");
+		Scanner sc=new Scanner(myfile);
+		while(sc.hasNext()) {
+			vals[index]=sc.nextInt();
+			outputFile.printf("%3d " , vals[index]);
+			index++;			
+		}
+
+		sc.close();
+		return index;
+	}
+}
